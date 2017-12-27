@@ -38,7 +38,7 @@ def value():
 def random_value():
     line = randint(0, 14)
     column = randint(0, 14)
-    print(line, column,labmap[line][column])
+    print(line, column, labmap[line][column])
 
 
 show()
